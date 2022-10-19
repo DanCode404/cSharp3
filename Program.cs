@@ -5,10 +5,6 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading;
-using Newtonsoft.Json;
-using Newtonsoft.Json.Serialization;
-using Newtonsoft.Converter;
-using Newtonsoft.Linq;
 using System.IO;
 
 List<string> ansatte = new List<string>();
@@ -48,11 +44,11 @@ void fjerne()
 
 void main()
 {
-    Convert_json_to_cs();
     Console.WriteLine("1: Legg inn ny ansatt.");
     Console.WriteLine("2: Rediger ansatt.");
     Console.WriteLine("3: Slett ansatt.");
     Console.WriteLine("4: List alle ansatte.");
+    Console.WriteLine("5: Close.");
     Console.WriteLine();
     string lol = Console.ReadLine();
     if (lol == "1")
@@ -60,7 +56,7 @@ void main()
         ligg();
     }
 
-    if (lol == "close")
+    if (lol == "5")
     {
         System.Environment.Exit(1);
     }
