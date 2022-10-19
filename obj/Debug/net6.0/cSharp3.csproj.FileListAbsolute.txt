@@ -1,0 +1,15 @@
+C:\Users\Daniel M B\Downloads\cSharp3\bin\Debug\net6.0\cSharp3.exe
+C:\Users\Daniel M B\Downloads\cSharp3\bin\Debug\net6.0\cSharp3.deps.json
+C:\Users\Daniel M B\Downloads\cSharp3\bin\Debug\net6.0\cSharp3.runtimeconfig.json
+C:\Users\Daniel M B\Downloads\cSharp3\bin\Debug\net6.0\cSharp3.dll
+C:\Users\Daniel M B\Downloads\cSharp3\bin\Debug\net6.0\cSharp3.pdb
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.csproj.AssemblyReference.cache
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.AssemblyInfoInputs.cache
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.AssemblyInfo.cs
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.csproj.CoreCompileInputs.cache
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.dll
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\refint\cSharp3.dll
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.pdb
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\cSharp3.genruntimeconfig.cache
+C:\Users\Daniel M B\Downloads\cSharp3\obj\Debug\net6.0\ref\cSharp3.dll
